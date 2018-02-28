@@ -6,6 +6,11 @@
 
 % Matlab script to calculate the wavevector's value for each magnon's
 % frequency. The calculation is based on Vladimir V. Vlasov calculation.
+%
+% Write by Valentin Besse
+% valentin.besse@univ-lemans.fr
+%
+% The data from ScriptAnalyzeAntonResult.m is required.
 
 clearvars,
 % close all,
