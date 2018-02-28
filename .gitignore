@@ -12,6 +12,8 @@
 *.eps
 *.jpg
 *.jpeg
+*.svg
+*.png
 
 # Experimental Data #
 #####################
