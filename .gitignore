@@ -6,6 +6,13 @@
 *.mat
 *.asv
 
+# Figures #
+###########
+
+*.eps
+*.jpg
+*.jpeg
+
 # Experimental Data #
 #####################
 
